@@ -1,5 +1,3 @@
-# Vibrio-Cholerae-GEA
-
 # Differential RNA-seq of Vibrio cholerae identifies the small RNA as a regulator of biofilm formation
 
 Quorum sensing has shown to be an essential form of cell communication exhibited in Vibrio Cholerae contributing to the formation of biofilm allowing for its survival and capacity for pathogenesis in Vibrio Cholerae. Understanding the modifications and contributions of specific tRNAs can provide valuable insight into the mechanisms involved in biofilm formation.
